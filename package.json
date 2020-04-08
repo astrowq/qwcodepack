@@ -4,6 +4,7 @@
     "description": "My own vscode extension pack",
     "version": "0.0.2",
     "publisher": "Baryonsoft",
+    "repository": "https://github.com/astrowq/qwcodepack",
     "engines": {
         "vscode": "^1.40.0"
     },
