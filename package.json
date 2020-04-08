@@ -2,7 +2,7 @@
     "name": "qwcodepack",
     "displayName": "qwCodePack",
     "description": "My own vscode extension pack",
-    "version": "0.0.2",
+    "version": "0.2.0",
     "publisher": "Baryonsoft",
     "repository": "https://github.com/astrowq/qwcodepack",
     "engines": {

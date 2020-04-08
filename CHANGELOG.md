@@ -4,7 +4,7 @@ All notable changes to the "qwcodepack" extension pack will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - 2020-04-08
+## [0.2.0] - 2020-04-08
 
 - removed some extensions and also added some ones.
 
