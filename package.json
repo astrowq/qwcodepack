@@ -2,8 +2,8 @@
     "name": "qwcodepack",
     "displayName": "qwCodePack",
     "description": "My own vscode extension pack",
-    "version": "0.2.0",
-    "publisher": "Baryonsoft",
+    "version": "0.3.0",
+    "publisher": "baryonsoft",
     "repository": "https://github.com/astrowq/qwcodepack",
     "engines": {
         "vscode": "^1.40.0"
@@ -12,17 +12,19 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "gruntfuggly.todo-tree",
         "CT6502.idl",
-        "eamodio.gitlens",
-        "julialang.language-julia",
         "mechatroner.rainbow-csv",
-        "ms-python.python",
+        "eamodio.gitlens",
         "ms-vscode-remote.remote-ssh",
+        "gruntfuggly.todo-tree",
+        "julialang.language-julia",
+        "ms-python.python",
         "rust-lang.rust",
+        "ms-vscode.cpptools",
         "streetsidesoftware.code-spell-checker",
         "vscode-icons-team.vscode-icons",
-        "softwaredotcom.swdc-vscode",
-        "wayou.vscode-todo-highlight"
+        "tomoki1207.pdf",
+        "visualstudioexptteam.vscodeintellicode",
+        "softwaredotcom.swdc-vscode"
     ]
 }
